@@ -5,4 +5,4 @@ In the DSBFC model, I implemented full AM modulation and demodulation circuits a
 
 The assignment showcased the behavior of various modulation techniques, their advantages, and their challenges when dealing with noise in communication systems.
 
-Instructor: Assoc. Prof. Ts. Dr. Raed Mohammed Abdullah.
+
